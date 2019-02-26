@@ -22,6 +22,9 @@ To perform the above mentioned tasks I have used mainly three
 [Bios Interrupts](http://www2.ift.ulaval.ca/~marchand/ift17583/dosints.pdf), INT 10h, INT 33h, INT 21h
 
 
+* This project was developed in the month of **November 2015**
+
+
 ### Development Guides
 
 * Assmebly file IT_100.asm,
